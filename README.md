@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Melvinjonesdx
-- 🌱 I’m currently learning quantum ,michine learing ...
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 <!---
 Melvinjonesdx/Melvinjonesdx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
